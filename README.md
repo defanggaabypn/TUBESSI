@@ -31,6 +31,6 @@ Akaunting uses [Laravel](http://laravel.com), the best existing PHP framework, a
 
 * Clone the repository: `https://github.com/defanggaabypn/TUBESSI.git`
 * Move to xammp folder
-* Import sql to db "tuber"
+* Import sql to db "tubes"
 
 
